@@ -1,20 +1,12 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
+ksobkowiak:
+  name: Krzysztof Sobkowiak
+  web: http://krzysztof-sobkowiak.net
+  email: 
+  bio: "JEE & OSS Solutions Architect, Apache Software Foundation Member, Apache ServiceMix Committer & PMC Member, Senior Solution Architect @ Capgemini."
+  avatar: ksobkowiak-photo.jpg
+  twitter: ksobkowiak
   google:
-    plus: BillyRick
+    plus: KrzysztofSobkowiak
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
