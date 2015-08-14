@@ -4,9 +4,9 @@ permalink: /about/
 title: About Krzysztof Sobkowiak
 tags: []
 image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: header.jpg
+  credit: 
+  creditlink: 
 ---
 
 Currently working for a software company called [Capgemini Polska](http://www.pl.capgemini.com/) in [Software Solutions Center](http://www.pl.capgemini-sdm.com/) in Wroclaw. 
