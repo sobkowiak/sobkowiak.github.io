@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+  xmlns:pm="http://www.web-semantics.org/ns/pm#" xmlns:wot="http://xmlns.com/wot/0.1/"
+  xmlns:rss="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:ical="http://www.w3.org/2002/12/cal/ical#" xmlns:doap="http://usefulinc.com/ns/doap#">
+  <foaf:Person rdf:ID="ksobkowiak">
+    <foaf:name>Krzysztof Sobkowiak</foaf:name>
+    <foaf:givenname>Krzysztof</foaf:givenname>
+    <foaf:family_name>Sobkowiak</foaf:family_name>
+    <foaf:mbox rdf:resource="mailto:krzys.sobkowiak@gmail.com" />
+    <foaf:depiction rdf:resource="http://krzysztof-sobkowiak.net/images/ksobkowiak-photo.jpg"/>
+    <foaf:homepage rdf:resource="http://krzysztof-sobkowiak.net/"/>
+    <foaf:weblog>
+      <foaf:Document rdf:about="http://krzysztof-sobkowiak.net/">
+        <dc:title>Krzysztof Sobkowiak's blog</dc:title>
+        <rdfs:seeAlso>
+          <rss:channel rdf:about="http://krzysztof-sobkowiak.net/feed"/>
+        </rdfs:seeAlso>
+      </foaf:Document>
+    </foaf:weblog>
+    <foaf:OnlineAccount>
+      <foaf:accountName>KSobkowiak</foaf:accountName>
+      <foaf:accountProfilePage rdf:resource="http://twitter.com/KSobkowiak"/>
+      <foaf:accountServiceHomepage rdf:resource="http://twitter.com/"/>
+    </foaf:OnlineAccount>
+    <wot:hasKey>
+      <wot:PubKey>
+        <wot:fingerprint>D597 BCC0 EC1B 2BBB 8324  73A9 68BD 46D2 AFF8 1C77</wot:fingerprint>
+        <wot:hex_id>AFF81C77</wot:hex_id>
+      </wot:PubKey>
+    </wot:hasKey>
+    <foaf:based_near>
+      <geo:Point>
+        <geo:lat>51.108825</geo:lat>
+        <geo:long>16.956042</geo:long>
+      </geo:Point>
+    </foaf:based_near>
+    <foaf:currentProject>
+      <doap:Project>
+        <pm:name>Apache ServiceMix</pm:name>
+        <pm:homepage rdf:resource="http://servicemix.apache.org"/>
+      </doap:Project>
+    </foaf:currentProject>
+  </foaf:Person>
+</rdf:RDF>
