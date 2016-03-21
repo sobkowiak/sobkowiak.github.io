@@ -22,5 +22,5 @@ You can find me talking about the latest trends in  cloud computing, microservic
 
 ## 2015
 
-* **Integrate (Yourself) with the Apache Software Foundation** Open Source Day 2015 [slides](http://www.slideshare.net/ksobkowiak/integrate-yourself-with-the-apache-software-foundation-47366192)
 * **Integrate (Yourself) with the Apache Software Foundation** 33rd Degree 4charity 2015 [slides](http://www.slideshare.net/ksobkowiak/integrate-yourself-with-the-apache-software-foundation-33rd-degree-4charity)
+* **Integrate (Yourself) with the Apache Software Foundation** Open Source Day 2015 [slides](http://www.slideshare.net/ksobkowiak/integrate-yourself-with-the-apache-software-foundation-47366192)
