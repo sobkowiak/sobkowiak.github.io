@@ -40,6 +40,15 @@
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
     </div><!--/ .headline-wrap -->
+    <div class="reblog-wrap">
+    {% if page.reblog.url %}
+      Reblogged from <a href="{{ page.reblog.url }}" target="_blank">{{ page.reblog.title }}</a>
+      {% if page.reblog.author %}
+        by {{ page.reblog.author }}
+      {% endif %} 
+      </br></br>
+    {% endif %} 
+    </div>
     <div class="article-wrap">
       {{ content }}
       <hr />
