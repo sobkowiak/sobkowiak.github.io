@@ -19,7 +19,7 @@ You can find me talking about the latest trends in  cloud computing, microservic
 ## 2016 
 
 * **Understanding Open Source**, WrocLOVE Geek Girls Carrots #32, 13 April 2016 [slides](http://sobkowiak.github.io/wroclove-ggc-32/index.html), [slides](http://www.slideshare.net/ksobkowiak/understanding-open-source-wroclove-geek-girls-carrots-32)
-* **Microservices With Spring Boot and Spring Cloud Netflix**, Capgemini APPS Evolve! Summit, Bad Soden, 3-5 March 2016 [slides](2016-03-03-spring-cloud-netflix-capgemini-summit/), [slides](http://www.slideshare.net/ksobkowiak/microservices-with-spring-boot-and-spring-cloud-netflix)
+* **Microservices With Spring Boot and Spring Cloud Netflix**, Capgemini APPS Evolve! Summit, Bad Soden, 3-5 March 2016 [slides](http://sobkowiak.github.io/capgemini-apps-evolve-summit-2016/index.html), [slides](http://www.slideshare.net/ksobkowiak/microservices-with-spring-boot-and-spring-cloud-netflix)
 
 ## 2015
 
